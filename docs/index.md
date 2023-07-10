@@ -44,9 +44,9 @@ Grazie a questa compatibilità la soluzione si adatta a qualsiasi configurazione
 
 # Funzionamento
 
-iOS | Google Home |
-| :-: | :---------: |
-| ![ios_config](opening/opening_phone.gif) | ![android_config](opening/opening_android.gif) |
+| Cancello | iOS | Google Home |
+| :-: | :-: | :---------: |
+| ![gate](opening/gate.gif) | ![ios_config](opening/opening_phone.gif) | ![android_config](opening/opening_android.gif) |
 
 In questo caso il cancello è stato azionato tramite telecomando. In Google Home l'aggiornamento in tempo reale sarà funzionante una volta che il dispositivo sarà certificato.
 
@@ -66,7 +66,7 @@ Il nostro dispositivo è perfettamente compatibile con i sistemi di automazione 
 
 | Funzionamento | Descrizione |
 | :-: | -- |
-| <img src="button/button_ios.gif" alt="android_config" width="300"/> | In questo esempio viene configurato un pulsante fisico di un qualsiasi marchio compatibile con Homekit/Google Home.<br><br>- **I vantaggi sono diversi:** <br>Connettività wireless: Il pulsante può essere posizionato in qualsiasi punto della casa senza la necessità di cablaggio. Questo lo rende estremamente versatile e facile da installare.<br><br>- **Ampio raggio di funzionamento:** Grazie al network, il pulsante ha una portata significativamente maggiore rispetto ai sistemi RF tradizionali. Ciò significa che può essere utilizzato da qualsiasi parte della casa, indipendentemente dalla distanza dalla centrale.<br><br>- **Automazione su pressione:** Il pulsante può essere configurato per eseguire specifiche automazioni ogni volta che viene premuto. Questo offre una grande comodità, permettendo l'attivazione di vari dispositivi o funzioni con un semplice click.<br><br>- **Indipendenza dalla connessione internet:** Il funzionamento dell'automazione è basato sull'indirizzo IP locale, il che significa che rimane operativa anche in assenza di connessione internet. Questo garantisce una affidabilità costante, nonostante le possibili interruzioni della rete internet. |
+| <img src="button/button_ios.gif" alt="android_config" width="300"/> | In questo esempio viene configurato un pulsante fisico di un qualsiasi marchio compatibile con Homekit/Google Home. I vantaggi sono diversi: <br><br>- **Compatibilità con qualsiasi pulsante di qualsiasi brand wireless:** <br>Il pulsante può essere posizionato in qualsiasi punto della casa senza la necessità di cablaggio. Questo lo rende estremamente versatile e facile da installare.<br><br>- **Ampio raggio di funzionamento:** Grazie al network, il pulsante ha una portata significativamente maggiore rispetto ai sistemi RF tradizionali. Ciò significa che può essere utilizzato da qualsiasi parte della casa, indipendentemente dalla distanza dalla centrale.<br><br>- **Automazione su pressione:** Il pulsante può essere configurato per eseguire specifiche automazioni ogni volta che viene premuto. Questo offre una grande comodità, permettendo l'attivazione di vari dispositivi o funzioni con un semplice click.<br><br>- **Indipendenza dalla connessione internet:** Il funzionamento dell'automazione è basato sull'indirizzo IP locale, il che significa che rimane operativa anche in assenza di connessione internet. Questo garantisce una affidabilità costante, nonostante le possibili interruzioni della rete internet. |
 
 <br>
 
