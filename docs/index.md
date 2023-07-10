@@ -28,8 +28,10 @@ Grazie alla innovativa tecnologia impiegata, il dispositivo non necessita di alc
 
 - Si integra nativamente con tutti gli smartphone. È direttamente compatibile, tra le altre, con i seguenti sistemi di domotica:
 
-| ![Google](google.png) | ![Alexa](alexa.png) | ![Apple](apple.png) | ![Samsung](smartthings.png) |
+| |  | | 
 | :-------------------: | :-----------------: | :-----------------: | :-------------------------: |
+| ![Google](google.png) | ![Alexa](alexa.png) | ![Apple](apple.png) | ![Samsung](smartthings.png) |
+
 
 #### Configurazione con diversi sistemi operativi
 
